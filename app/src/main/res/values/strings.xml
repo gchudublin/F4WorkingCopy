@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">F4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Chu">
+        <item>greg</item>
+        <item>ruby</item>
+        <item>Enoch</item>
+        <item>joseph</item>
+        <item>philip</item>
+    </string-array>
+    <string-array name="Desc">
+        <item>greg - dad</item>
+        <item>ruby - mom</item>
+        <item>Enoch - son</item>
+        <item>joseph - son</item>
+        <item>philip - son</item>
+    </string-array>
+</resources>
